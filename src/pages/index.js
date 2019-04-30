@@ -8,9 +8,9 @@ import { Link } from "gatsby"
 const IndexPage = () => {
   return (
     <Layout>
-      <div style={{backgroundColor: "#A667EC"}}>
+      <div style={{backgroundColor: "#A667EC",position: 'absolute', left:0, right:0, top:0, bottom: 0}}>
         <div align="center" >
-        <img src="https://cdn.dribbble.com/users/102974/screenshots/2754723/duller_muller.gif" alt="Strong Girl" height="auto" width="auto"/>
+        <img src="https://cdn.dribbble.com/users/102974/screenshots/2754723/duller_muller.gif" alt="Strong Girl" width="400"/>
 
           <div style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
           

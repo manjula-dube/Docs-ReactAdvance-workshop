@@ -25,7 +25,6 @@ Basic React, JS, ES6, HTML Knowledge.
 **Do I need to set up a local environment?**
 
 No. Everything we code will be on [codesandbox.io](https://codesandbox.io) so all you need is a computer with internet access.
-I will probably even run the workshops in a ChromeBook.
 
 
 
