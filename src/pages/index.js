@@ -10,7 +10,7 @@ const IndexPage = () => {
     <Layout>
       <div style={{backgroundColor: "#A667EC",position: 'absolute', left:0, right:0, top:0, bottom: 0}}>
         <div align="center" >
-        <img src="https://cdn.dribbble.com/users/102974/screenshots/2754723/duller_muller.gif" alt="Image Credit" href="https://dribbble.com/shots/2754723-Strong-flexing-emoticon-girl" width="400"/>
+       <a target="_blank" href="https://dribbble.com/shots/2754723-Strong-flexing-emoticon-girl"> <img src="https://cdn.dribbble.com/users/102974/screenshots/2754723/duller_muller.gif" alt="Image Credit" width="400"/></a>
 
           <div style={{color: "white", fontSize: 50, fontWeight: 'bold'}}>
           
