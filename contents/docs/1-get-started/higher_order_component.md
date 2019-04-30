@@ -3,6 +3,10 @@ title: 3. Higher Order Component
 root: "/docs"
 parents: ["Get Started"]
 ---
+&nbsp;
+&nbsp;
+
+
 # Higher Order Components
 
 ### What are Higher Order Components
@@ -101,4 +105,4 @@ App = fetchHOC({ url: 'my-url-2' })(App)
 The data prop being the same will cause just one set of data to be displayed, which is incorrect. Now take a look at the render-prop example and see for yourself that this case can be easily handled.
 
  ### Codesandbox example
-# [Fetch using HOC](https://codesandbox.io/s/734060mlm6)
+#### [Fetch using HOC](https://codesandbox.io/s/734060mlm6)

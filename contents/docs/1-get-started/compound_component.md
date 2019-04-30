@@ -3,6 +3,10 @@ title: 5.Compound Components
 root: "/docs"
 parents: ["Get Started"]
 ---
+
+&nbsp;
+&nbsp;
+
 # Compound Components
 
 ### What are Compound Components?
