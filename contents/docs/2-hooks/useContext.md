@@ -48,8 +48,6 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 
 ```
 
-##### Here’s the example on CodeSandbox.
-
 ## The useContext Way
 
 * Let’s rewrite the Display using the new useContext hook and see what it looks like:
