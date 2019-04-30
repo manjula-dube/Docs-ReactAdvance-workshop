@@ -1,5 +1,5 @@
 ---
-title: 3.useEffect Hook
+title: 2.useEffect Hook
 root: "/docs"
 parents: ["Hooks"]
 

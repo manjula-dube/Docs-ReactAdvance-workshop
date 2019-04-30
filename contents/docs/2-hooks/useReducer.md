@@ -1,5 +1,5 @@
 ---
-title: 4.useReducer Hook
+title: 3.useReducer Hook
 root: "/docs"
 parents: ["Hooks"]
 

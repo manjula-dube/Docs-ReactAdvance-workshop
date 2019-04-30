@@ -1,5 +1,5 @@
 ---
-title: 6. React Memo
+title: 5. React Memo
 root: "/docs"
 parents: ["Hooks"]
 
