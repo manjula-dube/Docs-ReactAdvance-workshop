@@ -21,9 +21,9 @@ const IndexPage = () => {
         
          
              <Link to="/docs/1-get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10, background:"#FFEB3B", color: "#212121"}}>Get Started</Button>
+            <Button type="primary" size="large" style={{borderColor: "212121",marginRight: 10, background:"#FFEB3B", color: "#212121"}}>Get Started</Button>
           </Link>
-          <Button style={{background:"#FFEB3B",color:'#212121'}}type="primary" size="large" href="https://github.com/manjula91/Docs-ReactAdvance-workshop">Github</Button>
+          <Button style={{borderColor: "212121", background:"#FFEB3B",color:'#212121'}}type="primary" size="large" href="https://github.com/manjula91/Docs-ReactAdvance-workshop">Github</Button>
             <div style={{marginTop :'200px'}}>
           </div>
         </div>
