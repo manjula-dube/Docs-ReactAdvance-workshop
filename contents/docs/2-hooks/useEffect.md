@@ -24,13 +24,13 @@ parents: ["Hooks"]
 
 * Lets start build a functional component that makes use of both useState and useEffect hook
 
-* Create a file name catApi.js
+* Create a file name useYourApi.js
 
 ```jsx
 
 import { useState, useEffect } from "react";
 
-export let useApi = (api, params) => {
+export let useYourApi = (api, params) => {
   let [state, setState] = useState({});
 
   useEffect(
@@ -58,7 +58,7 @@ let catsApi = text =>
 
 function App() {
   let [query, setQuery] = useState("React Hooks are awesome!");
-  let [{ data: catImg, loading }] = useApi(catsApi, query);
+  let [{ data: catImg, loading }] = useYourApi(catsApi, query);
 
   return (
     <div className="App">
