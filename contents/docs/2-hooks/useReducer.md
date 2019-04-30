@@ -109,7 +109,8 @@ function wishList() {
 
 * When the reducer gets the “add” action, it returns a new array that includes all the old elements, plus the new one at the end.
 
-##### One thing to note here is We’re using the length of the array as a sort of auto-incrementing (ish) ID. This works for our purposes here, but it’s not a great idea for a real app because it could lead to duplicate IDs, and bugs. (better to use a library like uuid or let the server generate a unique ID!)
+##### Important Note
+ One thing to note here is We’re using the length of the array as a sort of auto-incrementing (ish) ID. This works for our purposes here, but it’s not a great idea for a real app because it could lead to duplicate IDs, and bugs. (better to use a library like uuid or let the server generate a unique ID!)
 
 * The handleSubmit function is called when the user presses Enter in the input box, and so we need to call preventDefault to avoid a full page reload when that happens. Then it calls dispatch with an action. In this app, we’re deciding to give our actions a more Redux-y shape – an object with a type property and some associated data. We’re also clearing out the input.
 
