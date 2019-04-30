@@ -18,14 +18,10 @@ parents: ["Get Started"]
 <p> This repo is maintained to have collection of react patterns & best practices used in the community. This repo provides you the collated list of all the patterns used in the community. If You have discovered one & would love to share your own react pattern simply send us a PR 🙌 </p>
 
 #### React Advanced Patterns
-
+- [Higher Order Components](https://github.com/manjula91/react-advanced-patterns/tree/master/hoc)
+- [Render Props](https://github.com/manjula91/react-advanced-patterns/tree/master/render-props)
 - [Compound Components](https://github.com/manjula91/react-advanced-patterns/tree/master/compound-components)
 - [Flexible Compound Components](https://github.com/manjula91/react-advanced-patterns/tree/master/flexible-compound-components)
-- [Prop Collection](https://github.com/manjula91/react-advanced-patterns/tree/master/prop-collection)
-- [Prop Getters](https://github.com/manjula91/react-advanced-patterns/tree/master/prop-getters)
-- [Render Props](https://github.com/manjula91/react-advanced-patterns/tree/master/render-props)
-- [State Reducers](https://github.com/manjula91/react-advanced-patterns/tree/master/state-reducers)
-- [Higher Order Components](https://github.com/manjula91/react-advanced-patterns/tree/master/hoc)
 - [Provider Pattern](https://github.com/manjula91/react-advanced-patterns/tree/master/provider-pattern)
 - [React Hooks](https://github.com/manjula91/react-advanced-patterns/tree/master/hooks)
 
