@@ -19,8 +19,8 @@ class Header extends Component {
           top: 0,
           width: "100%",
           zIndex: 1000,
-          background: 'cornflowerblue',
-          marginBottom: '1.45rem',
+          background: '#FFEB3B',
+          marginBottom: '1.45rem'
         }}
       >
         <div
@@ -38,7 +38,7 @@ class Header extends Component {
               <Link
                 to="/"
                 style={{
-                  color: 'white',
+                  color: '#212121',
                   textDecoration: 'none',
                 }}
               >

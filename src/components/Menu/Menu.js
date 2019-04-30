@@ -29,7 +29,7 @@ const Menu = () => {
                   <p style={{ margin:0, fontSize: "1rem" }}>
                     <Link
                       to={item.link}
-                      style={{ color: 'white', textDecoration: 'none' }}
+                      style={{ color: '#212121', textDecoration: 'none' }}
                     >
                       {item.name}
                     </Link>

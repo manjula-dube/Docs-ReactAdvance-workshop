@@ -10,20 +10,20 @@ const IndexPage = () => {
     <Layout>
       <div style={{backgroundColor: "#A667EC",position: 'absolute', left:0, right:0, top:0, bottom: 0}}>
         <div align="center" >
-        <img src="https://cdn.dribbble.com/users/102974/screenshots/2754723/duller_muller.gif" alt="Strong Girl" width="400"/>
+        <img src="https://cdn.dribbble.com/users/102974/screenshots/2754723/duller_muller.gif" alt="Image Credit" href="https://dribbble.com/shots/2754723-Strong-flexing-emoticon-girl" width="400"/>
 
-          <div style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
+          <div style={{color: "white", fontSize: 50, fontWeight: 'bold'}}>
           
             React Advance Workshop
           </div>
-          <h2>Huge big line saying something cool</h2>
+          <h3>LETS GET PUMPED WITH REACT ADVANCE</h3>
          
         
          
              <Link to="/docs/1-get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Get Started</Button>
+            <Button type="primary" size="large" style={{marginRight: 10, background:"#FFEB3B", color: "#212121"}}>Get Started</Button>
           </Link>
-          <Button type="primary" size="large" href="https://github.com/manjula91/Docs-ReactAdvance-workshop">Github</Button>
+          <Button style={{background:"#FFEB3B",color:'#212121'}}type="primary" size="large" href="https://github.com/manjula91/Docs-ReactAdvance-workshop">Github</Button>
             <div style={{marginTop :'200px'}}>
           </div>
         </div>
